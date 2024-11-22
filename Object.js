@@ -9,3 +9,5 @@ let car = {
 }
 
 console.log();
+
+console.log();
