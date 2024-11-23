@@ -1,6 +1,6 @@
-let marks = 99;
+let marks = 9;
 
-if(marks=>33){
+if(marks=>33){   //jab iska bhi kuch karna ho
     console.log("Pass");
     if(marks=>90){
         console.log("exclent");
@@ -8,4 +8,7 @@ if(marks=>33){
         else{
             console.log("verygoog")
         }
+    }
+    else{
+        console.log("better luck next time")
     }
